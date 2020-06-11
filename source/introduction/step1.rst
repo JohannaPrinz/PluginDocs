@@ -28,7 +28,7 @@ To make sure, that buttons and inputfields (with a placeholder) will implemented
       | you find your elements in the list on the left hand side
 
     - | choose a unique name that includes the function of this group - button or input 
-      | (e.g: myFirstInput)
+      | (e.g: myFirstInput - for an inputfield OR myFirstButton - for a button)
 
 .. figure:: /material/step1name.png
     :name: step1: 3.
