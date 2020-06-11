@@ -30,7 +30,7 @@ To make sure, that buttons and inputfields (with a placeholder) will implemented
     - | choose a unique name that includes the function of this group - button or input 
       | (e.g: myFirstInput)
 
-.. figure:: /material/step1_name.png
+.. figure:: /material/step1name.png
     :name: step1: 3.
     :alt:  step1: 3.
     :align: center
