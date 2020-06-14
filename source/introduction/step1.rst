@@ -30,9 +30,9 @@ To make sure, that buttons and inputfields (with a placeholder) will implemented
     - | choose a unique name that includes the function of this group - button or input 
       | (e.g: myFirstInput - for an inputfield OR myFirstButton - for a button)
 
-.. figure:: /material/step1name.PNG
-    :name: step1: 3.
-    :alt:  step1: 3.
+.. figure:: /material/step1.PNG
+    :name: step1: 1. + 2.
+    :alt:  step1: 1. + 2.
     :align: center
 
-    rename the group (ref: 3.)
+    Selecting and grouping the elements (ref: 1. + 2.)
