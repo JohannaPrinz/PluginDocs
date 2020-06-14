@@ -33,7 +33,6 @@ To make sure, that buttons and inputfields (with a placeholder) will implemented
 .. figure:: /material/step1name.png
     :name: step1: 3.
     :alt:  step1: 3.
-    :width: 80%
     :align: center
 
     rename the group (ref: 3.)

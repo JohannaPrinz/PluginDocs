@@ -36,6 +36,9 @@ Step 2: Name your elements
     * - text
       - link
       - link
+    * - images/logos [#FN3]_
+      - image
+      - img
 
 .. [#FN1] the keyword has to be includen in the elementname
 
@@ -45,7 +48,6 @@ Step 2: Name your elements
    | Especially all your text-elements, because the name will be used as an **ID** in the CSS File.
     
 **For example:**
-""""""""""""""""""
 
 .. figure:: /material/nameExample.png
     :name: how to name elements
@@ -54,7 +56,7 @@ Step 2: Name your elements
 
     Example how to name your elements correctly.
 
-.. [#FN2] Illustration - how to get a list:
+.. [#FN2] Illustration: how to make a list:
 
 .. figure:: /material/listExample.png
     :name: how to make a list
@@ -62,3 +64,13 @@ Step 2: Name your elements
     :align: center
 
     Example how to make a list.
+
+.. [#FN3] Illustration: How to name a image:
+
+.. figure:: /material/imageExample.png
+    :name: how to name a image
+    :alt: how to name a image
+    :align: center
+
+    Example how to name a image
+    
