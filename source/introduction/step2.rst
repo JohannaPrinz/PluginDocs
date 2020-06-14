@@ -49,7 +49,7 @@ Step 2: Name your elements
     
 **For example:**
 
-.. figure:: /material/nameExample.png
+.. figure:: /material/nameExample.PNG
     :name: how to name elements
     :alt:  how to name elements
     :align: center
@@ -58,7 +58,7 @@ Step 2: Name your elements
 
 .. [#FN2] Illustration: how to make a list:
 
-.. figure:: /material/listExample.png
+.. figure:: /material/listExample.PNG
     :name: how to make a list
     :alt: how to make a list
     :align: center
@@ -67,7 +67,7 @@ Step 2: Name your elements
 
 .. [#FN3] Illustration: How to name a image:
 
-.. figure:: /material/imageExample.png
+.. figure:: /material/imageExample.PNG
     :name: how to name a image
     :alt: how to name a image
     :align: center
