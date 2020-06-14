@@ -45,20 +45,3 @@ Step 2: Name your elements
    | Especially all your text-elements, because the name will be used as an **ID** in the CSS File.
     
 **For example:**
-""""""""""""""""""
-
-.. figure:: /material/nameExample.png
-    :name: how to name elements
-    :alt:  how to name elements
-    :align: center
-
-    Example how to name your elements correctly.
-
-.. [#FN2] Illustration - how to get a list:
-
-.. figure:: /material/listExample.png
-    :name: how to make a list
-    :alt: how to make a list
-    :align: center
-
-    Example how to make a list.
