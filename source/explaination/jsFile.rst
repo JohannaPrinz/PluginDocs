@@ -8,7 +8,7 @@ In the jf file you will finde the HTML structur of your component.
 | Otherwise the indentations aren't correct
 | (That would effect the functionallity, but it's easier to read and it simlpy looks nicer)
 
-.. figure:: /material/jsFile.png
+.. figure:: /material/jsFile.PNG
     :name: jsFile
     :alt: HTML structur
     :align: center
