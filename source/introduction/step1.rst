@@ -1,15 +1,15 @@
 Step 1: Make neccessary groups
 ===============================
 
-To make sure, that buttons and inputfields (with a placeholder) will implemented correctly, you have to group the Rectangle and the textfield together:
+To make sure, that buttons and inputfields (with a placeholder) will implemented correctly, you have to group the *rectangle* and the *textfield* together:
 
-**1. select the two elements you want to group**
+**1. Select the two elements you want to group**
 
     - select the first element
     - press ``Shift``
     - select the other element
 
-**2. group them together**
+**2. Group them together**
 
     - right click on one of the selected elements
     - choose *Group*
@@ -35,4 +35,4 @@ To make sure, that buttons and inputfields (with a placeholder) will implemented
     :alt:  step1: 3.
     :align: center
 
-    rename the group (ref: 3.)
+    Rename the group (ref: 3.)

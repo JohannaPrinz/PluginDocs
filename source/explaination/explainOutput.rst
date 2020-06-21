@@ -8,3 +8,4 @@ How to deal with the exported Files
    jsFile
    cssFile
    indexDatei
+   htmlDatei

@@ -1,8 +1,8 @@
 Step 2: Name your elements
 ============================
 
-| Its neccessary to name specific elements the right way, so they will be implemented correctly.
-| There for you find a table with all elements that will be supported in the plugin and how to name them:
+| It's neccessary to name specific elements the right way, so they will be implemented correctly.
+| There for you will find all elements, that will be supported in the plugin and how to name them, in the table below:
 
 .. list-table::
     :name: element-table
