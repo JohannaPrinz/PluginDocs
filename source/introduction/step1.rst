@@ -36,3 +36,5 @@ To make sure, that buttons and inputfields (with a placeholder) will implemented
     :align: center
 
     Rename the group (ref: 3.)
+
+.. hint:: If you want to design your own logos or icons you also have to group all elements the logo/incon consists and the name of the group must include the keyword: **img**

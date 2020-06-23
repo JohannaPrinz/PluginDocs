@@ -8,7 +8,7 @@ The CSS file includes all the information about the style for every element.
 
 .. hint::
 
-    | if you have elements that have the same look you can combine their style.
+    | If you have elements that have the same look you can combine their style.
     | There for you have to: 
     | 1. change the id="..." into a class="..." (s. js file)
     | 2. use the same class name
