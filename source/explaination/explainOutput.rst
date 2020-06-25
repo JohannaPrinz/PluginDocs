@@ -1,4 +1,4 @@
-How to deal with the exported Files
+How to deal with the exported files
 ======================================
 
 .. toctree::

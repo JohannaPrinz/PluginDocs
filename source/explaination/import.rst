@@ -3,7 +3,7 @@ How to import the exportes Files to your Webapplication
 
 In your folder, you selected for saving the export, you will find the js file, the css file, a index.html file, an other .html file and a material folder, where all your images will be saved.
 
-.. figure:: /material/files.png
+.. figure:: /material/files.PNG
     :name: files
     :alt: content of your export folder
     :width: 150%

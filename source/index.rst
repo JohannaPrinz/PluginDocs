@@ -1,4 +1,4 @@
-Adobe XD web component plug-In 
+Adobe XD web component plug-in 
 ==============================
 
 .. toctree::
