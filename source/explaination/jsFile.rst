@@ -45,7 +45,7 @@ Below the html-template you will find the component class, where you can add eve
         this.shadowRoot.querySelector('#id-name').removeEventListener();
         }
 
-.. figure:: /material/callback.png
+.. figure:: /material/callback.PNG
    :name: callback
    :alt: component class
    :align: center
