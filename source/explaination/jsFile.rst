@@ -29,7 +29,7 @@ Below the html-template you will find the component class, where you can add eve
         this.shadowRoot.querySelector('#id-name').addEventListener('click',() => this.function());
         } 
 
-    b) define your function you called in den lamda-expression:
+    b) define your function you called in den lambda-expression:
 
     .. code-block:: javascript
         

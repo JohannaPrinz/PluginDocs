@@ -1,7 +1,7 @@
 Step 2: Name your elements
 ============================
 
-| It's neccessary to name specific elements the right way, so they will be implemented correctly.
+| It is neccessary to name specific elements the right way, so they will be implemented correctly.
 | There for you will find all elements, that will be supported in the plugin and how to name them, in the table below:
 
 .. list-table::
