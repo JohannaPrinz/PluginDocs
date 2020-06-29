@@ -1,4 +1,4 @@
-Handle the JS File
+Handle the .js file
 ====================
 
 In the .js file you will finde:
