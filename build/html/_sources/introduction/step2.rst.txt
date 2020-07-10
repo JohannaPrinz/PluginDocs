@@ -46,6 +46,9 @@ Step 2: Name your elements
 
    | Make sure you give all your other elements an unique name as well. 
    | Especially all your text-elements, because the name will be used as an **ID** in the CSS File.
+
+.. important:: all names have to be one word or seperated with a _ !
+
     
 **For example:**
 

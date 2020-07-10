@@ -1,7 +1,7 @@
-Handle the CSS File
+Handle the .css file
 ====================
 
-The CSS file includes all the information about the style for every element.
+The .css file includes all the information about the style for every element.
 
 | Here you can make changes, that will effect the appearance of the differen elements.
 | For format this file automatically press ``Ctrg + Alt + L``

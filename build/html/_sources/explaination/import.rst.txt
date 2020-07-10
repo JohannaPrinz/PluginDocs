@@ -1,7 +1,7 @@
 How to import the exported files into your web application
 ==========================================================
 
-In your folder, you selected for saving the export, you will find the js file, the css file, a index.html file, an other .html file and a material folder, where all your images will be saved.
+In your folder, you selected for saving the export, you will find the .js file, the .css file, a index.html file, an other .html file and a material folder, where all your images will be saved.
 
 .. figure:: /material/files.PNG
     :name: files
@@ -20,8 +20,8 @@ In your folder, you selected for saving the export, you will find the js file, t
 
 .. hint::
 
-    | If you have the material folder or the CSS file in another folder than the js file
-    | you have to adjust the source link, so that the js file can finde everything.
+    | If you have the material folder or the .css file in another folder than the .js file
+    | you have to adjust the source link, so that the .js file can finde everything.
 
 
-.. [#FN1] with a webcomponent you will create your own tag, so you may have to add the tag to your custom tags before it will work correctly
+.. [#FN1] with a webcomponent you will create your own tag, so you may have to add the tag to your custom tags before it will work correctly.

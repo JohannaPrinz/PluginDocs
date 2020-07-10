@@ -1,5 +1,7 @@
-Step 1: Make neccessary groups
-===============================
+Step 1: Groups and elementboxes
+================================
+
+**A. Make necessary groups**
 
 To make sure, that buttons and inputfields (with a placeholder) will implemented correctly, you have to group the *rectangle* and the *textfield* together:
 
@@ -38,3 +40,15 @@ To make sure, that buttons and inputfields (with a placeholder) will implemented
     Rename the group (ref: 3.)
 
 .. hint:: If you want to design your own logos or icons you also have to group all elements the logo/incon consists and the name of the group must also include the keyword: **img**
+
+**B. Resize the elementboxes**
+
+Make sure that the elementboxes from your elements - especially from the textfield are as big as the text it self.
+Otherwise the margin will not calculate correctly.
+
+.. figure:: /material/textfeldWrong.PNG
+    :name: textfield
+    :alt:  textfield
+    :align: center
+
+    Adjust the elementboxes.

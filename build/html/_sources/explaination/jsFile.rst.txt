@@ -1,7 +1,7 @@
-Handle the JS File
+Handle the .js file
 ====================
 
-In the jf file you will finde:
+In the .js file you will finde:
 
 **1. The HTML structur of your component**
 
@@ -52,7 +52,7 @@ Below the html-template you will find the component class, where you can add eve
    
    explaination how to add events.
 
-.. hint:: | In the exported js-file you already will finde this code.
+.. hint:: | In the exported .js file you will already find this code.
           | You only have to replace the id-name and the function name.
 
           | You can easily call multiple element in the connectedCallback() function.

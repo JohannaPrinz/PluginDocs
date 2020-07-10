@@ -1,4 +1,4 @@
-Extra HTML file
+Extra .html file
 ================
 
 | The extra .html file contains only the hmlt structur of the component.

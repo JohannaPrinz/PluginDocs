@@ -8,3 +8,4 @@ Adobe XD web component plug-in
    introduction/useage
    explaination/explainOutput
    webcomponents/webcomponents
+   faqs
