@@ -1,15 +1,16 @@
 FAQs 
 ======
 
-1. Why can't I see the file path?
+1. Why do I not see the filepath?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- | Your element names aren't written correctly
+- | Your element names aren't written correctly.
   | Please check step 2.
 
-- | You forgot to select the elements you want to export
+- | You forgot to select the elements you want to export.
+  | To do this in the right way, please check step 3.
 
-- | You didn'n name your component correctly / The "-" is missing in the component name
+- | You didn'n name your component correctly / The "-" is missing in the component name.
 
 - | Other reasons, in this case please write an e-mail to the support. Thank you.
 

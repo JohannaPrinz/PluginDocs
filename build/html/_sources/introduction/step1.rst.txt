@@ -3,7 +3,7 @@ Step 1: Groups and elementboxes
 
 **A. Make necessary groups**
 
-To make sure, that buttons and inputfields (with a placeholder) will implemented correctly, you have to group the *rectangle* and the *textfield* together:
+To make sure, that **buttons** and **inputfields with a placeholder** will implemented correctly, you have to group the *rectangle* and the *textfield* together:
 
 **1. Select the two elements you want to group**
 
@@ -28,9 +28,9 @@ To make sure, that buttons and inputfields (with a placeholder) will implemented
 
     - | double click on the name of your group (e.g Group 1)
       | you find your elements in the list on the left hand side
-
++
     - | choose a unique name that includes the function of this group - button or input 
-      | (e.g: myFirstInput - for an inputfield OR myFirstButton - for a button)
+      | (e.g: my_input - for an inputfield OR my_button - for a button)
 
 .. figure:: /material/step1name.jpg
     :name: step1: 3.

@@ -2,7 +2,9 @@ Step 2: Name your elements
 ============================
 
 | It is neccessary to name specific elements the right way, so they will be implemented correctly.
-| There for you will find all elements, that will be supported in the plugin and how to name them, in the table below:
+| There for you will find all elements, that will be supported in the plugin and how to name them, in the table below.
+
+.. important:: all names have to be one word or seperated with a _ !
 
 .. list-table::
     :name: element-table
@@ -12,10 +14,10 @@ Step 2: Name your elements
     * - **Adobe element**
       - **HTML element**
       - **keyword** [#FN1]_
-    * - rectangle + text
+    * - rectangle + text (group)
       - button
       - button
-    * - rectangle + text
+    * - rectangle + text (group)
       - input with placeholder
       - input
     * - rectangle
@@ -46,11 +48,8 @@ Step 2: Name your elements
 
    | Make sure you give all your other elements an unique name as well. 
    | Especially all your text-elements, because the name will be used as an **ID** in the CSS File.
-
-.. important:: all names have to be one word or seperated with a _ !
-
     
-**For example:**
+**Examples:**
 
 .. figure:: /material/nameExample.PNG
     :name: how to name elements

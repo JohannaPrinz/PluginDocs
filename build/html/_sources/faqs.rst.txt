@@ -1,15 +1,18 @@
 FAQs 
 ======
 
-1. Why can't I see the file path?
+1. Why do I not see the filepath?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- | Your element names aren't written correctly
+- | Your element names aren't written correctly.
   | Please check step 2.
 
-- | You forgot to select the elements you want to export
+- | You forgot to select the elements you want to export.
+  | To do this in the right way, please check step 3.
 
-- | You didn'n name your component correctly / The "-" is missing in the component name
+- | You didn'n name your component correctly / The "-" is missing in the component name.
+
+- | Other reasons, in this case please write an e-mail to the support. Thank you.
 
 2. Why does my export looks different than in Adobe XD?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -29,7 +32,7 @@ FAQs
   | Please check step 1 / B.
 
 - | Your elements overlaping or aren't in one line with eachother.
-  | In this case there is no solution - this arrangement of the elements aren't supported yet.
+  | In this case there is no solution - this arrangement of the elements isn't supported yet.
   | Please write an e-mail to the support with the subject: "individual arrangement of elements".
 
 - | Other reasons, in this case please write an e-mail to the support. Thank you.
